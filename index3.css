@@ -2,15 +2,35 @@
     color:rgb(237, 112, 224);
   }  */
 
-  #para2{
-    color:pink;
+  /* #line1{
+    color:rgb(107, 43, 226);
+    text-align: center;
   }
 
-  .para1{
+  .line2{
     color:green;
     border-width: 1px;
     border:1px solid orange;
-    border-style :black;
+    border-style :outset
     padding: 10px;
-    margin: 30px;
+    margin: 1px;
+  }
+
+  #s1{
+    color:gold;
+    border:lightblue solid 1px; 
+    background-color: aqua;
+    border-radius: 5px;
+  } */
+
+  /* .me{
+    background-color: rgba(116, 170, 245, 0.773);
+  } */
+
+  .me2{
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    border-radius:50%;
+    
   }
