@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Blossom Boutique</title>
+    <link rel="stylesheet" href="firtstp.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" /> 
+</head>
+<body>
+
+
+    <header id="navbar">
+
+        <h1>Blossom Boutique</h1>
+            
+                <ul>
+                    <li><a href=""><h3>Home</h3></li>
+                    <li><a href=""><h3>About Us</h3></li>
+                    <li><a href=""><h3>Shop</h3></liSt>
+                    <li><a href=""><h3>Contact</h3></li>  
+                </ul>
+                <ul>
+
+                    <li> <a href=""><i class="fa-solid fa-magnifying-glass"></i> &nbsp;</a><input type="search" placeholder="search for product" ><a href=""> </li>    
+                    
+                </ul>
+
+
+                
+                    <ul>
+                        <li><a href=""><i class="fa-solid fa-heart"></i></li>
+                        <li><a href=""><i class="fa-solid fa-truck"></i></li> 
+                        <li><a href=""><i class="fa-brands fa-facebook-f"></i></li>
+                        <li><a href=""><i class="fa-brands fa-instagram"></i></li>
+                    </ul>
+                    <button>
+                       <a href=""><i class="fa-solid fa-user"></i></a>
+                    </button>       
+      
+    </header>
+
+    <main id="home1" >
+
+     <section class="firstpage">
+        <div>
+              <img src="./special-occasions-feat (1).jpg" alt="">
+              <p>Blossom Collection<br> Let Your Dreams Blossom <br> Shop now <br></p>
+        </div> 
+     </section>
+
+     <section class="secondpage" style="height: 100vh;">
+        <p>FLOWERS BY OCCASION</p>
+        <div class="aboutdiv">
+            <div class="box"><img src="./Love.jpg" alt="love img"> </div>
+            <div class="box"><img src="./Easter.jpg" alt="Easter img"></div>
+            <div class="box"><img src="./Birthday.jpg" alt="Birthday img"></div>
+            <div class="box"><img src="./Get-Well.jpg" alt="Get-Well img" ></div>
+        </div>      
+     </section>
+
+     <section class="name">
+        <div>
+            <p>LOVE</p>
+            <p>FESTIVALS</p>
+            <p class="set">BIRTHDAY</p>
+            <p class="sset">Get-Well SOON</p>
+        </div>
+     </section>
+
+     <section class="thirdpage">
+        <div>
+          <img class="img1" src="./same-day-local-delivery.svg" alt="same day" >
+          <img class="img2" src="/friendly-customer-service.svg" alt="friendly">
+          <img class="img3" src="./in-house-designed-arrangements.svg" alt="in house">
+        </div>
+     </section>
+
+     <section class="abouttp">
+        <div>
+           <p class="text1">SAME DAY FLOWER <br> DELIVERY</p>
+           <p class="text2">FRIENDLY & HELPFUL <br> CUSTOMER SERVICE</p>
+           <p class="text3">IN-HOUSE DESIGNED <br> ARRANGEMENTS</p>
+        </div>
+     </section>
+
+
+    </main>
+    <footer></footer>
+    
+</body>
+</html>
